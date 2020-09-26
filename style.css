@@ -1,0 +1,51 @@
+h1{color: blanchedalmond;}
+h2{color: blanchedalmond;}
+.body{margin: #;}
+header{
+    background-color:hsl(0, 0%, 9%);
+    height: 15vh;}
+main{
+    background-color:#252628;
+    height: 85vh;}
+#btn{
+    border-radius:200px;
+   position: absolute;
+   top: 40vh;
+   left: 120vh;}
+   #SE{position: absolute;
+    top: 40vh;
+    left: 40vh;}
+#SI{background-color:rgb(23, 23, 23);
+    font-style: inherit;
+    color: white;
+    border: none;
+    position: absolute;
+    font-size: 20px;
+    top: 8vh;
+    left: 160vh; }
+    #sf{background-color:hsl(0, 0%, 9%);
+        border: none;
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        top: 8vh;
+        left: 179vh;   }
+#SEI{color: darkred;}
+ #Se{position: absolute;
+top: 5vh;
+left: 10vh; 
+border: none;}
+ #SEi{position: absolute;
+   top: 5vh;
+   left: 170vh; }
+#ta{border-bottom-color: darkred;
+    color: darkred;
+    position: absolute;
+    top: 70vh;
+    left: 43vh;
+    border-radius: 10px;
+    font-size: 20px;
+ padding: 10px;
+ background-color:#252628 ;
+ 
+}

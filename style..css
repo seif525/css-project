@@ -1,0 +1,24 @@
+body{ margin-top: 5px;}
+body{ background-image: url(https://miro.medium.com/max/3840/1*xMuIOwjliGUPjkzukeWKfw.jpeg);}
+#s{ position: absolute;
+    top: 10vh;
+    left:40%;
+    border-radius: 80px;
+}
+#e{ width: 600px;  padding-top:10px; padding-bottom:10px;border: 3px solid #A0A0A0; text-align: center;background: #3783e6;
+position: absolute;
+top: 50vh;
+left:60vh;}
+#i{position: absolute;
+top: 80vh;
+left: 10vh;}
+#f{position: absolute;
+    top: 80vh;
+    left: 65vh;}
+    #se{position: absolute;
+        top: 80vh;
+        left: 130vh;}
+li{ 
+font-weight: 900 
+   li{ color: rgb(0, 0, 0)}
+   a{color: chartreuse; }
